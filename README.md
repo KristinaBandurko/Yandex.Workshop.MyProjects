@@ -1,2 +1,2 @@
-# Yandex.Practice_MyProjects-
+# Yandex.Practice_MyProjects
 Содержит проекты, выполненные в ходе проф.подготовки по программе "Аналитик данных"
