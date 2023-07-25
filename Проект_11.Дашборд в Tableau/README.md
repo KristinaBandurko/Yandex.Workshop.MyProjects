@@ -1,6 +1,6 @@
-# 11. Анализ использования услуг компании «Мегалайн»
+# 11. Дашборд "Взаимодействие пользователей с карточками Яндекс.Дзен"
 
-[Ссылка на дашборд](https://public.tableau.com/app/profile/kristina.bandurko/viz/Project_Automation/Dash__) (_для открытия ссылки может понадобиться VPN)   
+[Ссылка на дашборд](https://public.tableau.com/app/profile/kristina.bandurko/viz/Project_Automation/Dash__) (_для открытия ссылки может понадобиться VPN_)   
 
 ## Описание проекта
 
