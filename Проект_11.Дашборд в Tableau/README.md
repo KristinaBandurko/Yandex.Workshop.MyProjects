@@ -1,6 +1,6 @@
 # 11. Анализ использования услуг компании «Мегалайн»
 
-[Ссылка на дашборд](https://public.tableau.com/app/profile/kristina.bandurko/viz/Project_Automation/Dash__)     
+[Ссылка на дашборд](https://public.tableau.com/app/profile/kristina.bandurko/viz/Project_Automation/Dash__) (_для открытия ссылки может понадобиться VPN)   
 
 ## Описание проекта
 
